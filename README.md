@@ -2,13 +2,12 @@
 
 ![Certificate Badge](oci-foundation-certificate.png)
 
-This repository showcases my achievement of the **OCI Foundations Associate (1Z0-1085)** certification, which I successfully earned on **18 August 2025**.  
+This repository showcases my achievement of the **OCI Foundations Associate (1Z0-1085)** certification, which I successfully earned on **19 August 2025**.  
 
 ---
 
 ## 📌 About This Certificate
 - Certification Authority: **Oracle University**
-- Certification ID: *(Add your Cert ID here if available)*
 - Validates knowledge in:
   - ☁️ Cloud Concepts  
   - ⚙️ OCI Core Services  
