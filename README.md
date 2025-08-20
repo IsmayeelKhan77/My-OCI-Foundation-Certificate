@@ -1,6 +1,5 @@
 # 🎓 Oracle Cloud Infrastructure (OCI) Foundations Associate
 
-![Certificate Badge](oci-foundation-certificate.png)
 
 This repository showcases my achievement of the **OCI Foundations Associate (1Z0-1085)** certification, which I successfully earned on **19 August 2025**.  
 
